@@ -10,11 +10,11 @@ Voici un mot *important* à mon sens
 
 Voici des mots **très importants**, j'insiste !
 
-Titre de niveau 1
-================
+## Titre de niveau 1
 
-Titre de niveau 2
------------------
+### Titre de niveau 2
+
+---
 
 * Une puce
 * Une autre puce
@@ -34,7 +34,7 @@ Voici un code en C :
         printf("Hello world!\n");
         return 0;
     }
-    
+
 La fonction `printf()` permet d'afficher du texte
 
-Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
+Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com)  pour tout apprendre à partir de Zéro !
