@@ -37,4 +37,4 @@ Voici un code en C :
 
 La fonction `printf()` permet d'afficher du texte
 
-Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com)  pour tout apprendre à partir de Zéro !
+Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
