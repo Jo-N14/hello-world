@@ -30,10 +30,12 @@ Voici des mots **très importants**, j'insiste !
 
 Voici un code en C :
 
-    int main(){
-        printf("Hello world!\n");
-        return 0;
-    }
+```C
+int main(){
+    printf("Hello world!\n");
+    return 0;
+}
+```
 
 La fonction `printf()` permet d'afficher du texte
 
